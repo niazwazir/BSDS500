@@ -1,0 +1,8 @@
+@inproceedings{muhammad2024multi,
+  title={Multi-scale Deep Convolutional Neural Networks for Microscopic Image Super-resolution},
+  author={Muhammad, Wazir and Ejaz, Nazia and Hussain, Ayaz and Shah, Jalal and Khan, Sohrab and Ahad, Inam Ul},
+  booktitle={4th International Conference on Key Enabling Technologies (KEYTECH 2024)},
+  pages={41--49},
+  year={2024},
+  organization={Atlantis Press}
+}
